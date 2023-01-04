@@ -1,3 +1,50 @@
+
+#### Screenshot  
+
+#### rds 
+  <img width="1440" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١١ في ١٠ ٠٢ ٥٩ م" src="https://user-images.githubusercontent.com/56774274/210631005-c304d4cc-2055-40f6-8411-963a1f5241e0.png">
+
+  
+  
+#### s3
+<img width="1440" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١١ في ١٠ ٠١ ٥١ م" src="https://user-images.githubusercontent.com/56774274/210630374-e8aed2a3-5dda-47a4-9a35-3268bc816bd5.png">
+  
+  
+
+<img width="1440" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١١ في ١٠ ٠٨ ٠٠ م" src="https://user-images.githubusercontent.com/56774274/210630930-f107d08a-1918-44bc-9569-7d3bac1e0750.png">
+  
+<img width="1440" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١١ في ١٠ ٠٢ ٠٢ م" src="https://user-images.githubusercontent.com/56774274/210630964-09ba16a4-afea-4664-a0ed-6b6c9ceb498a.png">
+
+
+http://udagrambucketudacity.s3-website.ap-south-1.amazonaws.com 
+
+#### EB 
+ <img width="1440" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١١ في ١٠ ٠٣ ٢٨ م" src="https://user-images.githubusercontent.com/56774274/210631045-3be8f6cd-e589-4a81-bd62-11c26d712567.png">
+
+## enviroment
+  <img width="1440" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١١ في ١٠ ١٠ ٥٠ م" src="https://user-images.githubusercontent.com/56774274/210631350-d9c060b9-9800-4e6b-89ce-339c38f13442.png">
+
+>>>>>>> 603f3b64b215dc24c118f917a153c78b78252321
+
+
+
+
+
+
+#### circleci
+
+<img width="1440" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١١ في ١٠ ٢١ ٣٧ م" src="https://user-images.githubusercontent.com/56774274/210633433-6f206e11-5060-46e8-b524-b6d334ef112e.png">
+<img width="1440" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١١ في ١٠ ٢١ ٣٢ م" src="https://user-images.githubusercontent.com/56774274/210633445-0602ecc6-1435-4c23-9627-1022b8f2b430.png">
+<img width="1440" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١١ في ١٠ ٢١ ٢٥ م" src="https://user-images.githubusercontent.com/56774274/210633450-292b6b00-a16e-4b95-bf9e-b1cf8b512592.png">
+<img width="1440" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١١ في ١٠ ٢١ ٢٠ م" src="https://user-images.githubusercontent.com/56774274/210633455-52972a88-f7e4-4788-963e-363d7b654455.png">
+<img width="1440" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١١ في ١٠ ٢١ ١٢ م" src="https://user-images.githubusercontent.com/56774274/210633463-1e9c8a9a-f7d7-4cda-b9db-6b582579c4af.png">
+<img width="1440" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١١ في ١٠ ٢١ ٠٥ م" src="https://user-images.githubusercontent.com/56774274/210633467-c85f2525-8cc2-442e-8e2d-a071f7e3752a.png">
+<img width="1440" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١١ في ١٠ ٢٠ ٥٧ م" src="https://user-images.githubusercontent.com/56774274/210633470-d0a189e2-9ea8-40b3-9880-5ee309a2efd9.png">
+<img width="1440" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١١ في ١٠ ٢٠ ٤٨ م" src="https://user-images.githubusercontent.com/56774274/210633479-328bc0f0-4544-4f4a-88da-23567f87d60d.png">
+
+
+
+
 # Hosting a Full-Stack Application
 
 ### **You can use you own project completed in previous courses or use the provided Udagram app for completing this final project.**
@@ -74,46 +121,3 @@ The e2e tests are using Protractor and Jasmine.
 =======
 
 
-
-#### Screenshot  
-
-#### rds 
-  <img width="1440" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١١ في ١٠ ٠٢ ٥٩ م" src="https://user-images.githubusercontent.com/56774274/210631005-c304d4cc-2055-40f6-8411-963a1f5241e0.png">
-
-  
-  
-#### s3
-<img width="1440" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١١ في ١٠ ٠١ ٥١ م" src="https://user-images.githubusercontent.com/56774274/210630374-e8aed2a3-5dda-47a4-9a35-3268bc816bd5.png">
-  
-  
-
-<img width="1440" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١١ في ١٠ ٠٨ ٠٠ م" src="https://user-images.githubusercontent.com/56774274/210630930-f107d08a-1918-44bc-9569-7d3bac1e0750.png">
-  
-<img width="1440" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١١ في ١٠ ٠٢ ٠٢ م" src="https://user-images.githubusercontent.com/56774274/210630964-09ba16a4-afea-4664-a0ed-6b6c9ceb498a.png">
-
-
-http://udagrambucketudacity.s3-website.ap-south-1.amazonaws.com 
-
-#### EB 
- <img width="1440" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١١ في ١٠ ٠٣ ٢٨ م" src="https://user-images.githubusercontent.com/56774274/210631045-3be8f6cd-e589-4a81-bd62-11c26d712567.png">
-
-## enviroment
-  <img width="1440" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١١ في ١٠ ١٠ ٥٠ م" src="https://user-images.githubusercontent.com/56774274/210631350-d9c060b9-9800-4e6b-89ce-339c38f13442.png">
-
->>>>>>> 603f3b64b215dc24c118f917a153c78b78252321
-
-
-
-
-
-
-#### circleci
-
-<img width="1440" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١١ في ١٠ ٢١ ٣٧ م" src="https://user-images.githubusercontent.com/56774274/210633433-6f206e11-5060-46e8-b524-b6d334ef112e.png">
-<img width="1440" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١١ في ١٠ ٢١ ٣٢ م" src="https://user-images.githubusercontent.com/56774274/210633445-0602ecc6-1435-4c23-9627-1022b8f2b430.png">
-<img width="1440" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١١ في ١٠ ٢١ ٢٥ م" src="https://user-images.githubusercontent.com/56774274/210633450-292b6b00-a16e-4b95-bf9e-b1cf8b512592.png">
-<img width="1440" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١١ في ١٠ ٢١ ٢٠ م" src="https://user-images.githubusercontent.com/56774274/210633455-52972a88-f7e4-4788-963e-363d7b654455.png">
-<img width="1440" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١١ في ١٠ ٢١ ١٢ م" src="https://user-images.githubusercontent.com/56774274/210633463-1e9c8a9a-f7d7-4cda-b9db-6b582579c4af.png">
-<img width="1440" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١١ في ١٠ ٢١ ٠٥ م" src="https://user-images.githubusercontent.com/56774274/210633467-c85f2525-8cc2-442e-8e2d-a071f7e3752a.png">
-<img width="1440" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١١ في ١٠ ٢٠ ٥٧ م" src="https://user-images.githubusercontent.com/56774274/210633470-d0a189e2-9ea8-40b3-9880-5ee309a2efd9.png">
-<img width="1440" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١١ في ١٠ ٢٠ ٤٨ م" src="https://user-images.githubusercontent.com/56774274/210633479-328bc0f0-4544-4f4a-88da-23567f87d60d.png">
