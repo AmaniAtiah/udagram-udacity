@@ -49,7 +49,7 @@ jobs:
       #       npm run api:build
 
   
-           - run:
+      - run:
           name: Deploy App
           # TODO: Install, build, deploy in both apps
           command: |
