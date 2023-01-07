@@ -48,12 +48,6 @@ jobs:
           command: |
             npm run api:build
 
-      - run:
-          name: Deploy App
-          # TODO: Install, build, deploy in both apps
-          command: |
-            npm run deploy     
-
   
       
 
@@ -68,7 +62,11 @@ jobs:
       - eb/setup
       - aws-cli/setup
       - checkout
-
+      - run:
+          name: Deploy App
+          # TODO: Install, build, deploy in both apps
+          command: |
+            npm run deploy
 
             
 workflows:
